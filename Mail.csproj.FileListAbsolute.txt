@@ -1,0 +1,34 @@
+C:/Users/Amal/documents/visual studio 2010/Projects/yahoo mail/yahoo mail/bin/Debug/yahoo mail.exe
+C:/Users/Amal/documents/visual studio 2010/Projects/yahoo mail/yahoo mail/bin/Debug/yahoo mail.pdb
+C:/Users/Amal/documents/visual studio 2010/Projects/yahoo mail/yahoo mail/obj/x86/Debug/yahoo_mail.Form1.resources
+C:/Users/Amal/documents/visual studio 2010/Projects/yahoo mail/yahoo mail/obj/x86/Debug/yahoo_mail.Properties.Resources.resources
+C:/Users/Amal/documents/visual studio 2010/Projects/yahoo mail/yahoo mail/obj/x86/Debug/Mail.csproj.GenerateResource.Cache
+C:/Users/Amal/documents/visual studio 2010/Projects/yahoo mail/yahoo mail/obj/x86/Debug/yahoo mail.exe
+C:/Users/Amal/documents/visual studio 2010/Projects/yahoo mail/yahoo mail/obj/x86/Debug/yahoo mail.pdb
+C:/Users/Amal/Documents/Visual Studio 2010/Projects/yahoo mail/yahoo mail/obj/x86/Debug/Mail.csprojResolveAssemblyReference.cache
+D:/college/Third year/6th term/Software Engineering/LAB/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/yahoo mail.exe
+D:/college/Third year/6th term/Software Engineering/LAB/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/yahoo mail.pdb
+D:/college/Third year/6th term/Software Engineering/LAB/nawaf/ASS #3 mail/yahoo mail/bin/Debug/yahoo mail.exe
+D:/college/Third year/6th term/Software Engineering/LAB/nawaf/ASS #3 mail/yahoo mail/bin/Debug/yahoo mail.pdb
+D:/college/Third year/6th term/Software Engineering/LAB/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/Mail.csprojResolveAssemblyReference.cache
+D:/college/Third year/6th term/Software Engineering/LAB/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/yahoo_mail.Form1.resources
+D:/college/Third year/6th term/Software Engineering/LAB/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/yahoo_mail.Properties.Resources.resources
+D:/college/Third year/6th term/Software Engineering/LAB/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/Mail.csproj.GenerateResource.Cache
+D:/nawaf/ASS #3 mail/yahoo mail/bin/Debug/yahoo mail.exe
+D:/nawaf/ASS #3 mail/yahoo mail/bin/Debug/yahoo mail.pdb
+D:/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/Mail.csprojResolveAssemblyReference.cache
+D:/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/yahoo_mail.Form1.resources
+D:/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/yahoo_mail.Properties.Resources.resources
+D:/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/Mail.csproj.GenerateResource.cache
+D:/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/Mail.csproj.CoreCompileInputs.cache
+D:/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/yahoo mail.exe
+D:/nawaf/ASS #3 mail/yahoo mail/obj/x86/Debug/yahoo mail.pdb
+/Users/amal/Documents/Email vertification/yahoo mail/bin/Debug/yahoo mail.exe
+/Users/amal/Documents/Email vertification/yahoo mail/bin/Debug/yahoo mail.pdb
+/Users/amal/Documents/Email vertification/yahoo mail/obj/x86/Debug/Mail.csprojResolveAssemblyReference.cache
+/Users/amal/Documents/Email vertification/yahoo mail/obj/x86/Debug/yahoo_mail.Form1.resources
+/Users/amal/Documents/Email vertification/yahoo mail/obj/x86/Debug/yahoo_mail.Properties.Resources.resources
+/Users/amal/Documents/Email vertification/yahoo mail/obj/x86/Debug/Mail.csproj.GenerateResource.Cache
+/Users/amal/Documents/Email vertification/yahoo mail/obj/x86/Debug/Mail.csproj.CoreCompileInputs.cache
+/Users/amal/Documents/Email vertification/yahoo mail/obj/x86/Debug/yahoo mail.exe
+/Users/amal/Documents/Email vertification/yahoo mail/obj/x86/Debug/yahoo mail.pdb

@@ -1,0 +1,8 @@
+c:\users\amal\documents\visual studio 2010\Projects\yahoo mail\yahoo mail\bin\Debug\yahoo mail.exe
+c:\users\amal\documents\visual studio 2010\Projects\yahoo mail\yahoo mail\bin\Debug\yahoo mail.pdb
+c:\users\amal\documents\visual studio 2010\Projects\yahoo mail\yahoo mail\obj\x86\Debug\yahoo_mail.Form1.resources
+c:\users\amal\documents\visual studio 2010\Projects\yahoo mail\yahoo mail\obj\x86\Debug\yahoo_mail.Properties.Resources.resources
+c:\users\amal\documents\visual studio 2010\Projects\yahoo mail\yahoo mail\obj\x86\Debug\yahoo mail.csproj.GenerateResource.Cache
+c:\users\amal\documents\visual studio 2010\Projects\yahoo mail\yahoo mail\obj\x86\Debug\yahoo mail.exe
+c:\users\amal\documents\visual studio 2010\Projects\yahoo mail\yahoo mail\obj\x86\Debug\yahoo mail.pdb
+C:\Users\Amal\documents\visual studio 2010\Projects\yahoo mail\yahoo mail\obj\x86\Debug\yahoo mail.csprojResolveAssemblyReference.cache
